@@ -4,27 +4,22 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Hey there! This page keeps my family and friends up to date with what’s going on in my day to day life. It’s all about how I manage my life with a very unusual type of cancer.
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+In many ways my life is simple. Every day is about having my life be filled with the best activities that make for the best of my health, happiness and success.
 
-There are currently two themes built on Poole:
+I’m also trying to learn how to manage this blog format on my [GitHub](github.com/aaronjlee/hyde). I’d love if you can teach me how to do it better.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+## Feeling Good 😎
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+Some fun facts about me…
 
-## Setup
+* I love [fonts](https://fonts.google.com/?query=vernon+adams). (Please support the late [Vernon Adams](http://sansoxygen.com/).)
+* GitHub is where I learn how to apply online visual communications [for free](https://aaronjlee.github.io/).
+* [Vollkorn](http://vollkorn-typeface.com/) is my favorite German font because my random stem cell match is from Germany. It’s how I  celebrate.
+* Looking for some good music advice. I haven’t listened to anything good for ages.
 
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+Have questions or suggestions? Feel free to drop me a line on [Twitter](https://twitter.com/aaronjlee).
 
 Thanks for reading!
