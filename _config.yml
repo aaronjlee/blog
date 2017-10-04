@@ -9,7 +9,7 @@ permalink:        pretty
 title:            blog
 tagline:          'my secret approach for conquering cancer'
 description:      'Keeping my daily cancer-based life simple and incredible at the same time. Made by <a href="https://twitter.com/aaronjlee" target="_blank">@aaronjlee</a>.'
-url:              http://aaronjlee.github.io/
+url:              http://aaronjlee.github.io/hyde
 baseurl:          /
 
 author:
